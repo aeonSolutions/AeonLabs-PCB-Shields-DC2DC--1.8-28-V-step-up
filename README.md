@@ -5,10 +5,8 @@ Ro change the output voltage one needs to change the resistance in the voltage d
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
-![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down
-.svg)
-![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down
-0/total)
+![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down.svg)
+![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/total)
 
 ## Revisions
 - revision 1.0
