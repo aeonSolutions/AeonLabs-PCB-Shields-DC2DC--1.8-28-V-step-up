@@ -1,6 +1,5 @@
 # AeonLabs PCB Shields DC DC 1.8-28V Step up/down
-This is a pcb design for a DC DC [1.8;28]V step-up/down. Suitable as a add-on design for any other KiCad project.
-Ro change the output voltage one needs to change the resistance in the voltage divider connected to pin 3 of the MT3608 IC. The MT3608 is a constant frequency, 6-pin SOT23 with hight efficiency up to 97%.
+This is a pcb design for a DC DC [1.8;28]V step-up/down. Suitable as a add-on design for any other KiCad project. The MT3608 is a constant frequency, 6-pin SOT23 with hight efficiency up to 97%. To change the output voltage one needs to change the resistance in the voltage divider connected to pin 3 of the MT3608 IC.
 
 current mode step-up converter intended for small,
 low power applications
