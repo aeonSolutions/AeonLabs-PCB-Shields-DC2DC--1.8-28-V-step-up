@@ -30,8 +30,6 @@ Alternatively, and if you do not want to build a PCB by yourself and like to buy
 The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
 
-This PCB is a #direct fit #replacement of the one found on the internet at sale. For example here: https://s.click.aliexpress.com/e/_9wRPxz
-
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/blob/main/designs/pcb_front.png)
