@@ -35,8 +35,8 @@ The price will be around 30eur plus postage fees.
 ________________________________________________________________________________________________________________
 
 ## PCB Parts list
-- [Capacitor 2.2uF SMD 1206](https://s.click.aliexpress.com/e/_AVdmzr)
-- [Resistor SMD 1206 330R x3 ](https://s.click.aliexpress.com/e/_A7OXrR)
+- [Capacitor 2.2uF SMD](https://s.click.aliexpress.com/e/_AVdmzr)
+- [Resistor SMD 1206 ](https://s.click.aliexpress.com/e/_A7OXrR)
 - [SS34 rectifier Diode](https://s.click.aliexpress.com/e/_DkhOib9)
 - [MT3608 DC DC 5W 2A](https://s.click.aliexpress.com/e/_Dmd5xxh)
 - [SMD inductor]( https://s.click.aliexpress.com/e/_Dlx2YWx)
