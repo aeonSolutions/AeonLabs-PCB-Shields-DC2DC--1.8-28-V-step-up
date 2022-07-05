@@ -6,10 +6,15 @@ This is a pcb design for a DC DC [1.8;28]V step-up/down converter intended for s
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/total)
 
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/blob/main/designs/working_yellow.png)  Waiting for first batch from factory. Not tested.
+
+If you already tested this PCB send me a message. Thank you
+
+
 ## Revisions
 - revision 1.0
  
-
 ## Download options
 Download this repository if you need the KiCad Files or, download the Gerber files in the release section of this repository
 
