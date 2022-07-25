@@ -3,8 +3,8 @@ This is a pcb design for a DC DC [1.8;28]V step-up converter intended for small,
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
-![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down.svg)
-![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/total)
+![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up.svg)
+![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up/total)
 
 ### Status
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/blob/main/designs/working_green.png)  fully tested & working.
@@ -35,7 +35,7 @@ The price will be around 30eur plus postage fees.
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
-![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/blob/main/designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up/blob/main/designs/pcb_front.png)
 
 ________________________________________________________________________________________________________________
 
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________
 
 ### Share this PCB board files
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/blob/main/designs/pcb_back.png)%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2FaeonSolutions%2F![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/blob/main/designs/pcb_back.png))
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up/blob/main/designs/pcb_back.png)%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2FaeonSolutions%2F![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up/blob/main/designs/pcb_back.png))
 
 <a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
