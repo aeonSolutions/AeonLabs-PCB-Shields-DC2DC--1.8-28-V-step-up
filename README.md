@@ -51,7 +51,6 @@ ________________________________________________________________________________
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
 
 
-
 ## REWORKING MT3608 BOOST CONVERTERS FOR LOWER IDLE CURRENT DRAW
 by [Lewin Day](https://hackaday.com/author/lewinday/) and by [Aka Kasyan](https://www.youtube.com/c/KasyanTV)
 
