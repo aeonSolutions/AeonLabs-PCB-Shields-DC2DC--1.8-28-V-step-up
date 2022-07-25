@@ -61,7 +61,7 @@ The trick is to modify the behavior of the converter when no load is connected. 
 
 Aka Kasyan reports that this drastically cuts the idle current draw, which is particularly useful for battery powered projects. It’s important to note that the current sense resistor must be appropriately sized for the given load, however. 
 
-![youtube](https://www.youtube.com/watch?v=zJJcdptSH80)
+[![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up/blob/main/designs/youtube_mt3608.png)](https://www.youtube.com/watch?v=zJJcdptSH80)
 ______________________________________________________________________________________________________________________________
 
 ### License
