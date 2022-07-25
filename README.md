@@ -50,6 +50,18 @@ ________________________________________________________________________________
 ## Firmware Download 
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
 
+
+
+## REWORKING MT3608 BOOST CONVERTERS FOR LOWER IDLE CURRENT DRAW
+by [Lewin Day](https://hackaday.com/author/lewinday/) and by [Aka Kasyan](https://www.youtube.com/c/KasyanTV)
+
+One drawback of the MT3608 IC, particularly when working with batteries, is the idle current draw, on the order of 1 to 1.5mA. Fear not, however — there is a workaround, courtesy of [Aka Kasyan]. (Video, embedded below.)
+
+The trick is to modify the behavior of the converter when no load is connected. The enable pin of the boost converter is held low through a pull-down resistor, keeping the boost converter switched off. In this state, the output voltage is equal to the input voltage. A current sense resistor is then installed in the output path. When a load is connected, this causes a voltage drop across the current sense resistor. This is then used to switch a transistor, which then connects the enable pin to the positive rail, switching the converter on, leading to the full boosted output voltage being reached.
+
+Aka Kasyan reports that this drastically cuts the idle current draw, which is particularly useful for battery powered projects. It’s important to note that the current sense resistor must be appropriately sized for the given load, however. 
+
+![youtube](https://www.youtube.com/watch?v=zJJcdptSH80)
 ______________________________________________________________________________________________________________________________
 
 ### License
